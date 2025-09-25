@@ -46,8 +46,6 @@ major_project/
 └── .gitignore
 ```
 
-*(If your exact folders differ, adjust names accordingly.)*
-
 ---
 
 ## 🛠️ Installation
@@ -86,13 +84,9 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-*(List of common packages your `requirements.txt` should include is below.)*
-
 ---
 
 ## 📦 Typical `requirements.txt`
-
-If not already generated, your file should look something like:
 
 ```
 streamlit==1.28.0
