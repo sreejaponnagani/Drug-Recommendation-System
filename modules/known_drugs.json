@@ -1,0 +1,24 @@
+{
+    "headache": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Aspirin"
+    ],
+    "fever": [
+        "Paracetamol",
+        "Ibuprofen"
+    ],
+    "pain": [
+        "Ibuprofen",
+        "Naproxen",
+        "Aspirin"
+    ],
+    "inflammation": [
+        "Ibuprofen",
+        "Naproxen"
+    ],
+    "allergy": [
+        "Loratadine",
+        "Cetirizine"
+    ]
+}
